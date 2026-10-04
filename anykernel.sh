@@ -6,7 +6,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ESK Kernel for xaga by bachnxuan @ esk-project
+kernel.string=Tech Kernel for xaga by bachnxuan @ esk-project
 do.devicecheck=1
 do.modules=0
 do.systemless=0
