@@ -2,11 +2,12 @@
 ## osm0sis @ xda-developers
 ## cyberknight777 @ xda-developers
 ## bachnxuan @ esk-project
+## Tech Master
 
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ESK Kernel for xaga by bachnxuan @ esk-project
+kernel.string=Tech Kernel By @TECHMASTER
 do.devicecheck=0
 do.modules=0
 do.systemless=0
